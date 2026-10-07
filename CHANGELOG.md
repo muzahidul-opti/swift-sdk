@@ -6,6 +6,21 @@ October 7, 2026
 ### Test release
 
 - Test patch release
+## 5.6.0-beta
+October 7, 2026
+
+### SPM support
+
+- Sample beta testing
+
+
+## 5.5.2
+October 7, 2026
+
+### SPM support
+
+- Sample release test changelog failure recover
+
 
 ## 5.5.1
 October 7, 2026
