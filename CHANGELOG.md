@@ -1,5 +1,12 @@
 # Optimizely Swift SDK Changelog
 
+## 5.5.3
+October 7, 2026
+
+### Test release
+
+- Test patch release
+
 ## 5.5.1
 October 7, 2026
 
