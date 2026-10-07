@@ -1,5 +1,13 @@
 # Optimizely Swift SDK Changelog
 
+## 5.6.0-beta-1
+October 7, 2026
+
+### SPM support
+
+- Sample beta testing
+
+
 ## 5.5.2
 October 7, 2026
 
